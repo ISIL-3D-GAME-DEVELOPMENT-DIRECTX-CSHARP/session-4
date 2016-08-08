@@ -1,0 +1,12 @@
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\Sesion2_Lab01.exe
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\Sesion2_Lab01.pdb
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.exe
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.pdb
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.D3DCompiler.dll
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.Direct3D11.dll
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.dll
+c:\users\cristian\documents\visual studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Cristian\Documents\Visual Studio 2012\Projects\Sesion2_Lab01\Sesion2_Lab01\bin\Debug\Content\Fx_Primitive.fx
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 2\Sesion2_Lab02\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.exe
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 2\Sesion2_Lab02\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.pdb

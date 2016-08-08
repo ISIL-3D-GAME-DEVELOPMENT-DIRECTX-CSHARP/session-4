@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\Content\Fx_Primitive.fx
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\Sesion2_Lab01.exe
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\Sesion2_Lab01.pdb
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.dll
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\obj\Debug\Sesion4_Lab01.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.exe
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\obj\Debug\Sesion2_Lab01.pdb
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\Content\Fx_TexturePrimitive.fx
+C:\Users\Public\Documents\ISIL\Desarrollo de Videojuegos Multiplayer 3D\sesion 4\Sesion4_Lab01\Sesion2_Lab01\bin\Debug\Content\spMario.png
